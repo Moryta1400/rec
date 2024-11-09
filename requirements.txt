@@ -1,0 +1,5 @@
+tkinter
+pyaudio
+numpy
+pydub
+ffmpeg-python
