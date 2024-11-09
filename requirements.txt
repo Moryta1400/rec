@@ -2,5 +2,5 @@ pyaudio
 numpy
 pydub
 ffmpeg-python
-pyaudio
+pyaudio==1.20.0
 libasound2-dev
