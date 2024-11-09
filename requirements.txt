@@ -2,3 +2,5 @@ pyaudio
 numpy
 pydub
 ffmpeg-python
+pyaudio
+libasound2-dev
